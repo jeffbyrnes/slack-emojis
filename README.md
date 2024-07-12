@@ -17,7 +17,9 @@
 | ![aces](emojis/aces.png)                                               | aces                        |
 | ![allthethings](emojis/allthethings.png)                               | allthethings                |
 | ![android](emojis/android.png)                                         | android                     |
+| ![apple-fire](emojis/apple-fire.gif)                                   | apple-fire                  |
 | ![areyoukiddingme](emojis/areyoukiddingme.png)                         | areyoukiddingme             |
+| ![awkward](emojis/awkward.gif)                                         | awkward                     |
 | ![aws](emojis/aws.png)                                                 | aws                         |
 | ![awthanks](emojis/awthanks.png)                                       | awthanks                    |
 | ![aww-yeah](emojis/aww-yeah.gif)                                       | aww-yeah                    |
@@ -27,6 +29,7 @@
 | ![badpokerface](emojis/badpokerface.png)                               | badpokerface                |
 | ![bender](emojis/bender.png)                                           | bender                      |
 | ![blond-tom-cruise](emojis/blond-tom-cruise.png)                       | blond-tom-cruise            |
+| ![blow-it-up](emojis/blow-it-up.gif)                                   | blow-it-up                  |
 | ![boom](emojis/boom.gif)                                               | boom                        |
 | ![branch](emojis/branch.png)                                           | branch                      |
 | ![bueller](emojis/bueller.png)                                         | bueller                     |
@@ -38,6 +41,7 @@
 | ![cerealguy](emojis/cerealguy.png)                                     | cerealguy                   |
 | ![cerealspit](emojis/cerealspit.png)                                   | cerealspit                  |
 | ![challengeaccepted](emojis/challengeaccepted.png)                     | challengeaccepted           |
+| ![chefskiss](emojis/chefskiss.png)                                     | chefskiss                   |
 | ![chewy](emojis/chewy.png)                                             | chewy                       |
 | ![chompy](emojis/chompy.gif)                                           | chompy                      |
 | ![chucknorrispng](emojis/chucknorrispng.png)                           | chucknorrispng              |
@@ -79,6 +83,7 @@
 | ![guanaco](emojis/guanaco.png)                                         | guanaco                     |
 | ![haveaseat](emojis/haveaseat.png)                                     | haveaseat                   |
 | ![hipster](emojis/hipster.png)                                         | hipster                     |
+| ![hmmyes](emojis/hmmyes.png)                                           | hmmyes                      |
 | ![homer-disappear](emojis/homer-disappear.gif)                         | homer-disappear             |
 | ![hypnotoad](emojis/hypnotoad.gif)                                     | hypnotoad                   |
 | ![ilied](emojis/ilied.png)                                             | ilied                       |
@@ -148,6 +153,7 @@
 | ![takemymoney](emojis/takemymoney.png)                                 | takemymoney                 |
 | ![the_more_you_know](emojis/the_more_you_know.gif)                     | the_more_you_know           |
 | ![this-is-this-is-fine-fire](emojis/this-is-fine-fire.gif)             | this-is-fine-fire           |
+| ![this-is-the-way](emojis/this-is-the-way.png)                         | this-is-the-way             |
 | ![thomas-the-thomas-the-triggered-engine](emojis/thomas-the-triggered-engine.gif) | thomas-the-triggered-engine |
 | ![to-thumbsup](emojis/to-thumbsup.png)                                 | to-thumbsup                 |
 | ![troll](emojis/troll.png)                                             | troll                       |
@@ -167,6 +173,7 @@
 | ![yellow-submarine](emojis/yellow-submarine.jpg)                       | yellow-submarine            |
 | ![yey](emojis/yey.png)                                                 | yey                         |
 | ![yodawg](emojis/yodawg.png)                                           | yodawg                      |
+| ![yolo](emojis/yolo.png)                                               | yolo                        |
 | ![yoof](emojis/yoof.png)                                               | yoof                        |
 | ![you_dont_say](emojis/you_dont_say.png)                               | you_dont_say                |
 | ![yougotitdude](emojis/yougotitdude.gif)                               | yougotitdude                |
